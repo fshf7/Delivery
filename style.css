@@ -80,8 +80,6 @@ main {
     margin: 0;
 }
 
-.products {}
-
 .products-header {
     display: flex;
     align-items: center;
