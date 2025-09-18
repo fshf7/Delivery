@@ -54,7 +54,7 @@ main {
 }
 
 .banner-item {
-    background-image: url(./images/banners/banner-image.png);
+    background-image: url(/images/banners/banner-image.png);
     background-color: #FFF1B8;
     background-repeat: no-repeat;
     background-size: contain;
